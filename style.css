@@ -57,7 +57,9 @@ header {
   background: url(Beach-banner.jpg);
   background-size: cover;
   height: 800px;
+  width: 100%;
 }
+
 
 .intro {
   max-width: 960px;
@@ -70,13 +72,14 @@ header {
   color: white;
 }
 
-.navbar {
+.navbar {/*
     background: paleturquoise;
     opacity: 0.5;
-    height: 92px;
+    height: 92px;*/
     padding: 10px 20px;
     transition: padding 2s ease;
     font-family: monospace;
+    color: white;
 }
 
 .bar1,
