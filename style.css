@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -79,7 +83,7 @@ header {
     padding: 10px 20px;
     transition: padding 2s ease;
     font-family: monospace;
-    color: white;
+    
 }
 
 .bar1,
@@ -136,6 +140,7 @@ header {
   text-align: left;
   width: 480px;
   background-color: #fff;
+  height: 300px;
 }
 
 .text-box-content {
