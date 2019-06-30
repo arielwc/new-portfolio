@@ -58,7 +58,7 @@ h3 {
 }
 
 header {
-  background: url(Beach-banner.jpg);
+  background: url(sand.jpg);
   background-size: cover;
   height: 800px;
   width: 100%;
@@ -73,16 +73,16 @@ header {
   text-align: center;
   letter-spacing: 0.1em;
   font-family: monospace;
-  color: white;
 }
 
-.navbar {/*
-    background: paleturquoise;
-    opacity: 0.5;
-    height: 92px;*/
+.navbar {
+    /*background: white;
+    opacity: 0.3;
+    height: 60px;*/
     padding: 10px 20px;
     transition: padding 2s ease;
     font-family: monospace;
+    color: white;
     
 }
 
